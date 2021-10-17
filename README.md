@@ -11,5 +11,5 @@ A smart streetlight is a public lighting fixture that incorporates technology, s
 
 
 ### File Description:
-1.	ManualReport.pdf – Setups of AWS architecture of this project.
+1.	Manual_Report.pdf – Setups of AWS architecture of this project.
 
